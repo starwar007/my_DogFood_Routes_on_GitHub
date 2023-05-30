@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my_DogFood_Routes_on_GitHub/static/css/main.9496c7b6.css",
-    "main.js": "/my_DogFood_Routes_on_GitHub/static/js/main.2b52e632.js",
+    "main.js": "/my_DogFood_Routes_on_GitHub/static/js/main.d1d9e3f7.js",
     "static/media/logo.svg": "/my_DogFood_Routes_on_GitHub/static/media/logo.4f9d699de55eb25e196ecc4c87a15a5e.svg",
     "static/media/quality.svg": "/my_DogFood_Routes_on_GitHub/static/media/quality.8eb6560a188790582a8aaddc99e116ea.svg",
     "static/media/instagram.svg": "/my_DogFood_Routes_on_GitHub/static/media/instagram.54cbf40d1b69370b6a2ec029eefc269c.svg",
@@ -17,10 +17,10 @@
     "index.html": "/my_DogFood_Routes_on_GitHub/index.html",
     "static/media/telegram.svg": "/my_DogFood_Routes_on_GitHub/static/media/telegram.95a5ca8a1ae0a13c18da2bca3f249bf5.svg",
     "main.9496c7b6.css.map": "/my_DogFood_Routes_on_GitHub/static/css/main.9496c7b6.css.map",
-    "main.2b52e632.js.map": "/my_DogFood_Routes_on_GitHub/static/js/main.2b52e632.js.map"
+    "main.d1d9e3f7.js.map": "/my_DogFood_Routes_on_GitHub/static/js/main.d1d9e3f7.js.map"
   },
   "entrypoints": [
     "static/css/main.9496c7b6.css",
-    "static/js/main.2b52e632.js"
+    "static/js/main.d1d9e3f7.js"
   ]
 }
