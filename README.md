@@ -1,4 +1,4 @@
-Этот проект был сделан на основе кода с практикума,который был нам любезно представлен, разобран мной,так как я сомневался что прям справлюсь самостоятельно,не судите строго.    
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
